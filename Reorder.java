@@ -1,4 +1,4 @@
-//reorder an array
+//reorder an array.
 
 public class Reorder {
 	void sort(int [] a){
