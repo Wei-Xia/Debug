@@ -1,5 +1,5 @@
 //use Binary Search method in the array
-//output the index of K
+//output the index of K.
 
 public class Search_BinarySearch {
 
