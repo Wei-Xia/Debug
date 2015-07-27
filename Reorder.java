@@ -16,6 +16,7 @@ public class Reorder {
 		}
 	}
 
+
 	public static void main(String [] args){
 		int [] a = new int [6];
 		for (int i=0; i<a.length; i++)
@@ -24,7 +25,7 @@ public class Reorder {
 			System.out.print (k+ " ");
 		}
 		System.out.println();
-		
+
 		sort (a);
 		for (int k:a){
 			System.out.print (k+ " ");
